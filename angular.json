@@ -28,6 +28,14 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeflex/primeflex.css",
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/font-awesome/css/font-awesome.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "drmanagerempresa"
+  "defaultProject": "drmanagerempresa",
+  "cli": {
+    "analytics": "ea723df7-2ed4-498c-9e09-2e351a700ca9"
+  }
 }
